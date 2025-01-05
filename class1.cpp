@@ -17,6 +17,8 @@ public:
 int main()
 {
 helloJava  hw;
+helloJava  hj;
 hw.PrintHelloWorld();
+hj.PrintHelloWorld;
     return 0;
 }

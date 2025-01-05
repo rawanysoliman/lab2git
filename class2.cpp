@@ -5,7 +5,7 @@ using namespace std;
 class helloITI
 {
 public:
-    void PrintHelloITI()
+    void PrintHelloIT()
     {
         cout<<"hello ITI"<<endl;
     }
@@ -15,7 +15,7 @@ public:
 
 int main()
 {
-helloITI h;
+helloIT h;
 h.PrintHelloITI();
     return 0;
 }

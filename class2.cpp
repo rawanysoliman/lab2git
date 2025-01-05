@@ -16,6 +16,7 @@ public:
 int main()
 {
 helloIT h;
+helloIT h2;
 h.PrintHelloITI();
     return 0;
 }

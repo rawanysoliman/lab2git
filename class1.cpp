@@ -3,7 +3,7 @@
 using namespace std;
 
 
-class helloJava
+class hellomahmoud
 {
 public:
     void PrintHelloWorld()

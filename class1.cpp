@@ -5,6 +5,9 @@ using namespace std;
 
 class helloJava
 {
+
+private:
+    int classnum ;
 public:
     void PrintHelloWorld()
     {

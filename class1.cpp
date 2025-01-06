@@ -3,12 +3,17 @@
 using namespace std;
 
 
-class hellomahmoud
+class hellomahmoudnew
 {
 public:
     void PrintHelloWorld()
     {
         cout<<"hello world"<<endl;
+    }
+  
+    helloJava(){
+       cout<<"yasmine"<<endl;
+
     }
 };
 

@@ -5,6 +5,9 @@ using namespace std;
 
 class hellomahmoudnew
 {
+
+private:
+    int classnum11;
 public:
     void PrintHelloWorld()
     {
@@ -14,6 +17,9 @@ public:
     helloJava(){
        cout<<"yasmine"<<endl;
 
+    }
+    hello(){
+        cout<<"yasmine"<<endl;
     }
 };
 

@@ -6,11 +6,12 @@ using namespace std;
 class hellomahmoudnew
 {
 public:
+    int classnum;
     void PrintHelloWorld()
     {
         cout<<"hello world"<<endl;
     }
-  
+
     helloJava(){
        cout<<"yasmine"<<endl;
 

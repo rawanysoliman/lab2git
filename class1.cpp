@@ -10,6 +10,10 @@ public:
     {
         cout<<"hello world"<<endl;
     }
+    helloJava(){
+       cout<<"yasmine"<<endl;
+
+    }
 };
 
 

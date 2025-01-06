@@ -12,6 +12,17 @@ public:
 };
 
 
+class rawan
+{
+
+public:
+    void hellorawan()
+    {
+        cout<<"hello from rawan:<<endl;
+    }
+
+};
+
 
 int main()
 {

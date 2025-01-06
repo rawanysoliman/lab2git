@@ -17,6 +17,9 @@ public:
        cout<<"yasmine"<<endl;
 
     }
+    hello(){
+        cout<<"yasmine"<<endl;
+    }
 };
 
 

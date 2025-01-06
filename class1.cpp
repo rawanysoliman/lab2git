@@ -7,7 +7,7 @@ class helloJava
 {
 
 private:
-    int classnum ;
+    int classnum1;
 public:
     void PrintHelloWorld()
     {
